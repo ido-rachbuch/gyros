@@ -172,4 +172,4 @@ cython_debug/
 
 # Custom additions.
 utils_local/
-HOME/
+$HOME/
